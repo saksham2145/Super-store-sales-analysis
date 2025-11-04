@@ -10,7 +10,6 @@ It helps visualize key insights on sales, profit, and quantity trends, allowing 
 🌍 Regional Performance (Central, East, South, West)
 💳 Sales by Payment Mode and Ship Mode
 🏢 Category & Sub-Category Performance
-
 🧩 Interactive Map Visualization showing Profit and Sales by State
 🎯 Dynamic filters for Year and Region
 
